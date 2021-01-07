@@ -1,12 +1,10 @@
 import express from 'express';
 
-import test from './test';
-import user from './user';
+import player from './player';
 
 const router = express.Router();
 
-router.use(test);
-router.use(user);
+router.use(player);
 
 
 export default router;

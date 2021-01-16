@@ -1,5 +1,18 @@
 const returnSamples = {
   player: {
+    overview: [
+      {
+        id: "1",
+        first_name: "Luka",
+        last_name: "Perkovic",
+        nationality: "Croatia",
+        ign: "Perkz",
+        team: "G2 Esports",
+        role: "mid",
+        region: "LCS",
+        player_rating: "96"
+      }
+    ],
     meta: {
       id: "1",
       first_name: "Luka",

@@ -5,7 +5,6 @@ import verifyCardType from "../../utils/verifyCardType";
 const router = express.Router();
 
 router.get("/overview/:page", async (req, res, next) => {
-  const query = req.query;
   const page = req.params.page;
 
   if (!page) {

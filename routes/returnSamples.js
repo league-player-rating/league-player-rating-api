@@ -115,6 +115,148 @@ const returnSamples = {
     ]
   },
   team: {
+    overview: [
+      {
+        id: "1",
+        team: "G2 Esports",
+        nationality: "Croatia",
+        region: "LCS",
+        player_rating: "96"
+      },
+      {
+        id: "2",
+        team: "G2 Esports",
+        nationality: "Croatia",
+        region: "LCS",
+        player_rating: "96"
+      },
+      {
+        id: "3",
+        team: "G2 Esports",
+        nationality: "Croatia",
+        region: "LCS",
+        player_rating: "96"
+      },
+      {
+        id: "4",
+        team: "G2 Esports",
+        nationality: "Croatia",
+        region: "LCS",
+        player_rating: "96"
+      },
+      {
+        id: "5",
+        team: "G2 Esports",
+        nationality: "Croatia",
+        region: "LCS",
+        player_rating: "96"
+      },
+      {
+        id: "6",
+        team: "G2 Esports",
+        nationality: "Croatia",
+        region: "LCS",
+        player_rating: "96"
+      },
+      {
+        id: "7",
+        team: "G2 Esports",
+        nationality: "Croatia",
+        region: "LCK",
+        player_rating: "96"
+      },
+      {
+        id: "8",
+        team: "G2 Esports",
+        nationality: "Croatia",
+        region: "LCK",
+        player_rating: "96"
+      },
+      {
+        id: "9",
+        team: "G2 Esports",
+        nationality: "Croatia",
+        region: "LCK",
+        player_rating: "96"
+      },
+      {
+        id: "10",
+        team: "G2 Esports",
+        nationality: "Croatia",
+        region: "LCK",
+        player_rating: "96"
+      },
+      {
+        id: "11",
+        team: "G2 Esports",
+        nationality: "Croatia",
+        region: "LPL",
+        player_rating: "96"
+      },
+      {
+        id: "12",
+        team: "G2 Esports",
+        nationality: "Croatia",
+        region: "LPL",
+        player_rating: "96"
+      },
+      {
+        id: "13",
+        team: "G2 Esports",
+        nationality: "Croatia",
+        region: "LPL",
+        player_rating: "96"
+      },
+      {
+        id: "14",
+        team: "G2 Esports",
+        nationality: "Croatia",
+        region: "LPL",
+        player_rating: "96"
+      },
+      {
+        id: "15",
+        team: "G2 Esports",
+        nationality: "Croatia",
+        region: "LEC",
+        player_rating: "96"
+      },
+      {
+        id: "16",
+        team: "G2 Esports",
+        nationality: "Croatia",
+        region: "LEC",
+        player_rating: "96"
+      },
+      {
+        id: "17",
+        team: "G2 Esports",
+        nationality: "Croatia",
+        region: "LEC",
+        player_rating: "96"
+      },
+      {
+        id: "18",
+        team: "G2 Esports",
+        nationality: "Croatia",
+        region: "LEC",
+        player_rating: "96"
+      },
+      {
+        id: "19",
+        team: "G2 Esports",
+        nationality: "Croatia",
+        region: "LEC",
+        player_rating: "96"
+      },
+      {
+        id: "20",
+        team: "G2 Esports",
+        nationality: "Croatia",
+        region: "LEC",
+        player_rating: "96"
+      },
+    ],
     meta: {
       id: "1",
       team_name: "FlyQuest",

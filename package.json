@@ -6,7 +6,9 @@
   "scripts": {
     "start": "node_modules/.bin/babel-node index.js",
     "dev": "node_modules/.bin/nodemon index.js --exec babel-node --",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "clear": "rm -rf node_modules package-lock.json && npm install",
+    "preinstall": "npx npm-force-resolutions"
   },
   "dependencies": {
     "babel-cli": "^6.26.0",
@@ -16,11 +18,15 @@
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
     "morgan": "^1.10.0",
-    "pg": "^8.2.1",
-    "sequelize": "^6.2.4"
+    "pg": "^8.5.1",
+    "sequelize": "^6.4.0"
   },
   "devDependencies": {
+    "braces": "^3.0.2",
     "nodemon": "^2.0.4"
+  },
+  "resolutions": {
+    "braces": "^3.0.2"
   },
   "repository": {
     "type": "git",

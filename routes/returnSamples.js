@@ -118,143 +118,143 @@ const returnSamples = {
     overview: [
       {
         id: "1",
-        team: "G2 Esports",
-        nationality: "Croatia",
+        team: "TSM",
+        hq_location: "United States of America",
         region: "LCS",
-        player_rating: "96"
+        team_rating: "88"
       },
       {
         id: "2",
-        team: "G2 Esports",
-        nationality: "Croatia",
+        team: "Counter Logic Gaming",
+        hq_location: "United States of America",
         region: "LCS",
-        player_rating: "96"
+        team_rating: "76"
       },
       {
         id: "3",
-        team: "G2 Esports",
-        nationality: "Croatia",
+        team: "Team Liquid",
+        hq_location: "United States of America",
         region: "LCS",
-        player_rating: "96"
+        team_rating: "92"
       },
       {
         id: "4",
-        team: "G2 Esports",
-        nationality: "Croatia",
+        team: "100 Thieves",
+        hq_location: "United States of America",
         region: "LCS",
-        player_rating: "96"
+        team_rating: "90"
       },
       {
         id: "5",
-        team: "G2 Esports",
-        nationality: "Croatia",
+        team: "Evil Geniuses",
+        hq_location: "United States of America",
         region: "LCS",
-        player_rating: "96"
+        team_rating: "86"
       },
       {
         id: "6",
-        team: "G2 Esports",
-        nationality: "Croatia",
+        team: "Cloud 9",
+        hq_location: "United States of America",
         region: "LCS",
-        player_rating: "96"
+        team_rating: "94"
       },
       {
         id: "7",
-        team: "G2 Esports",
-        nationality: "Croatia",
+        team: "T1",
+        hq_location: "South Korea",
         region: "LCK",
-        player_rating: "96"
+        team_rating: "90"
       },
       {
         id: "8",
-        team: "G2 Esports",
-        nationality: "Croatia",
+        team: "Damwon KIA",
+        hq_location: "South Korea",
         region: "LCK",
-        player_rating: "96"
+        team_rating: "96"
       },
       {
         id: "9",
-        team: "G2 Esports",
-        nationality: "Croatia",
+        team: "Gen.G",
+        hq_location: "South Korea",
         region: "LCK",
-        player_rating: "96"
+        team_rating: "92"
       },
       {
         id: "10",
-        team: "G2 Esports",
-        nationality: "Croatia",
+        team: "Liiv SANDBOX",
+        hq_location: "South Korea",
         region: "LCK",
-        player_rating: "96"
+        team_rating: "69"
       },
       {
         id: "11",
-        team: "G2 Esports",
-        nationality: "Croatia",
+        team: "Suning",
+        hq_location: "China",
         region: "LPL",
-        player_rating: "96"
+        team_rating: "87"
       },
       {
         id: "12",
-        team: "G2 Esports",
-        nationality: "Croatia",
+        team: "Invictus Gaming",
+        hq_location: "China",
         region: "LPL",
-        player_rating: "96"
+        team_rating: "86"
       },
       {
         id: "13",
-        team: "G2 Esports",
-        nationality: "Croatia",
+        team: "Fun Plus Phoenix",
+        hq_location: "China",
         region: "LPL",
-        player_rating: "96"
+        team_rating: "83"
       },
       {
         id: "14",
-        team: "G2 Esports",
-        nationality: "Croatia",
+        team: "Royal Never Give Up",
+        hq_location: "China",
         region: "LPL",
-        player_rating: "96"
+        team_rating: "77"
       },
       {
         id: "15",
         team: "G2 Esports",
-        nationality: "Croatia",
+        hq_location: "Spain",
         region: "LEC",
-        player_rating: "96"
+        team_rating: "92"
       },
       {
         id: "16",
-        team: "G2 Esports",
-        nationality: "Croatia",
+        team: "Fnatic",
+        hq_location: "United Kingdom",
         region: "LEC",
-        player_rating: "96"
+        team_rating: "90"
       },
       {
         id: "17",
-        team: "G2 Esports",
-        nationality: "Croatia",
+        team: "FC Schalke 04",
+        hq_location: "Germany",
         region: "LEC",
-        player_rating: "96"
+        team_rating: "84"
       },
       {
         id: "18",
-        team: "G2 Esports",
-        nationality: "Croatia",
+        team: "MAD Lions",
+        hq_location: "Spain",
         region: "LEC",
-        player_rating: "96"
+        team_rating: "81"
       },
       {
         id: "19",
-        team: "G2 Esports",
-        nationality: "Croatia",
+        team: "Astralis",
+        hq_location: "Denmark",
         region: "LEC",
-        player_rating: "96"
+        team_rating: "71"
       },
       {
         id: "20",
-        team: "G2 Esports",
-        nationality: "Croatia",
+        team: "Rogue",
+        hq_location: "United States of America",
         region: "LEC",
-        player_rating: "96"
+        team_rating: "87"
       },
     ],
     meta: {
